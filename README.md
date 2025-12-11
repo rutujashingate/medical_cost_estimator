@@ -16,9 +16,9 @@ Medical insurance costs vary significantly based on individual characteristics. 
 
   <table>
   <tr>
-    <td><img src="images/IMAGE1.png" width="300"></td>
-    <td><img src="images/IMAGE2.png" width="300"></td>
-    <td><img src="images/IMAGE3.png" width="300"></td>
+    <td><img src="Graphs/histo_box.png" width="300"></td>
+    <td><img src="Graphs/heatmap.png" width="300"></td>
+    <td><img src="Graphs/box_charges.png" width="300"></td>
   </tr>
 </table>
 
