@@ -1,4 +1,4 @@
-# 🏥 Medical Cost Estimator Using Supervised Machine Learning
+# Medical Cost Estimator Using Supervised Machine Learning
 
 This project focuses on building a supervised machine learning regression model to predict medical insurance charges based on patient-related features. The approach includes exploratory data analysis (EDA), linear regression, and gradient descent to understand patterns in healthcare costs and develop an accurate cost estimation model.
 
@@ -103,7 +103,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 Through this project, I gained hands-on experience with:
 
