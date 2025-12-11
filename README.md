@@ -14,8 +14,8 @@ Medical insurance costs vary significantly based on individual characteristics. 
 - Identify key factors that influence medical costs
 - Achieve accurate predictions for insurance charge estimation
 
-!(Graphs/histo_box.png)
-!(Graphs/box_charges.png)
+![Histogram_Boxplot](Graphs/histo_box.png)
+![Box plot](Graphs/box_charges.png)
   <table>
   <tr>
     <td><img src="Graphs/Actual_predicted.png" width="300"></td>
